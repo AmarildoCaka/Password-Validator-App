@@ -20,4 +20,4 @@ A robust and user-friendly password validation application built with **React.js
 
 ### Clone the Repository
 
-git clone https://github.com/AmarildoCaka/Password-Validator-App
+git clone https://github.com/AmarildoCaka/password-validator-app
